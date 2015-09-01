@@ -1,8 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+|-------------------------------------------|
+|Universidad del Valle de Guatemala         |  
+|Mario Galvez                               |
+|Luisa Arboleda                             |
+|-------------------------------------------|
+|Clase HJ6 (main)                           |
+|Hoja de Trabajo No. 6 Estructuras de Datos |
+|-------------------------------------------
+*/
+
 package hoja6;
 
 import java.util.HashSet;
